@@ -1,5 +1,6 @@
 using CinemaManager_zaineb.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
 namespace CinemaManager_zaineb.Controllers

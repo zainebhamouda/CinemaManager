@@ -4,7 +4,15 @@ using System.Collections.Generic;
 namespace CinemaManager_zaineb.Models.Cinema;
 
 public partial class Table
-{
+{   
+    public Table()
+    {
+        Movies = new HashSet<Movie>();
+
+    }
+        
+        
+        
     public int Id { get; set; }
 
     public string Name { get; set; } = null!;
@@ -13,5 +21,5 @@ public partial class Table
 
     public string Email { get; set; } = null!;
 
-    public virtual ICollection<Movie> Movies { get; set; } = new List<Movie>();
+    public ICollection<Movie> Movies { get; set; }
 }

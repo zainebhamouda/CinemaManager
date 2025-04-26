@@ -1,6 +1,10 @@
 ﻿using CinemaManager_zaineb.Models.Cinema;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace CinemaManager_zaineb.Controllers
 {
@@ -11,6 +15,35 @@ namespace CinemaManager_zaineb.Controllers
         {
             _context = context;
         }
+
+        //Partie B
+        public IActionResult MoviesAndTheirProds_UsingModel()
+        {
+            var moviesAndProducers = from m in _context.Movies
+                                     join p in _context.Tables on m.ProducerId equals p.Id
+                                     select new ProdMovie
+                                     {
+                                         mTitle = m.Title,
+                                         mGenre = m.Genre,
+                                         pName = p.Name,
+                                         pNat = p.Nationality
+                                     };
+
+            return View(moviesAndProducers.ToList());
+        }
+
+
+
+        // Action ProdsAndTheirMovies pour afficher les producteurs et leurs films
+        public async Task<IActionResult> ProdsAndTheirMovies()
+        {
+            var producersWithMovies = await _context.Tables
+                .Include(p => p.Movies) // Inclure les films associés à chaque producteur
+                .ToListAsync();
+
+            return View(producersWithMovies);
+        }
+
 
 
         // GET: ProducersController

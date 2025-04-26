@@ -1,14 +1,15 @@
 ﻿@model IEnumerable<CinemaManager_zaineb.Models.Cinema.Table>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Producers and Their Movies";
 }
 
-<h1>Index</h1>
+<h1>Producers and Their Movies</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Create New Producer</a>
 </p>
+
 <table class="table">
     <thead>
         <tr>
@@ -21,27 +22,54 @@
             <th>
                 @Html.DisplayNameFor(model => model.Email)
             </th>
+            <th>
+                Movies
+            </th>
             <th></th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Nationality)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Email)
-            </td>
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nationality)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    <!-- Bouton pour afficher/masquer les films -->
+                    <button class="btn btn-info" onclick="toggleMovies(@item.Id)">Show Movies</button>
+                    <!-- Liste des films masquée par défaut -->
+                    <ul id="movies-@item.Id" style="display: none;">
+                        @foreach (var movie in item.Movies)
+                        {
+                            <li>@movie.Title (@movie.Genre)</li>
+                        }
+                    </ul>
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
+
+<!-- JavaScript pour gérer l'affichage dynamique des films -->
+<script type="text/javascript">
+    function toggleMovies(producerId) {
+        var moviesList = document.getElementById('movies-' + producerId);
+        if (moviesList.style.display === "none") {
+            moviesList.style.display = "block";
+        } else {
+            moviesList.style.display = "none";
+        }
+    }
+</script>

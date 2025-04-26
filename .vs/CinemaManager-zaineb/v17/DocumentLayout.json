@@ -3,40 +3,120 @@
   "WorkspaceRootPath": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\models\\cinema\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\models\\cinema\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\cinemamanager-zaineb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\cinemamanager-zaineb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\models\\cinema\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\models\\cinema\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\controllers\\producerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\models\\cinema\\prodmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\models\\cinema\\prodmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\cinemamanager-zaineb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\cinemamanager-zaineb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\cinemamanager-zaineb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\cinemamanager-zaineb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\models\\cinema\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\models\\cinema\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\obj\\Debug\\net8.0\\CinemaManager-zaineb.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaManager-zaineb\\obj\\Debug\\net8.0\\CinemaManager-zaineb.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\producers\\prodsandtheirmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\producers\\prodsandtheirmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\producers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\movies\\moviesandtheirprods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\movies\\moviesandtheirprods.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\producers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\models\\cinema\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\models\\cinema\\cinemadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|c:\\users\\zaine\\source\\repos\\cinemamanager-zaineb\\cinemamanager-zaineb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9B64E41-02C5-44D1-B36E-6C8003E7F6F8}|CinemaManager-zaineb\\CinemaManager-zaineb.csproj|solutionrelative:cinemamanager-zaineb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,49 +126,288 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\Create.cshtml",
-              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Views\\Producers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\Create.cshtml",
-              "RelativeToolTip": "CinemaManager-zaineb\\Views\\Producers\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-06T20:18:47.048Z",
+              "DocumentIndex": 1,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\Cinema\\Table.cs",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Models\\Cinema\\Table.cs",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\Cinema\\Table.cs",
+              "RelativeToolTip": "CinemaManager-zaineb\\Models\\Cinema\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:47:45.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\Index.cshtml",
-              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Views\\Producers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\Index.cshtml",
-              "RelativeToolTip": "CinemaManager-zaineb\\Views\\Producers\\Index.cshtml",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T10:30:12.881Z"
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Program.cs",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Program.cs",
+              "RelativeToolTip": "CinemaManager-zaineb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:05:02.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "ProdMovie.cs",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\Cinema\\ProdMovie.cs",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Models\\Cinema\\ProdMovie.cs",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\Cinema\\ProdMovie.cs",
+              "RelativeToolTip": "CinemaManager-zaineb\\Models\\Cinema\\ProdMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:31:33.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProducersController.cs",
               "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Controllers\\ProducersController.cs",
               "RelativeDocumentMoniker": "CinemaManager-zaineb\\Controllers\\ProducersController.cs",
               "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Controllers\\ProducersController.cs",
               "RelativeToolTip": "CinemaManager-zaineb\\Controllers\\ProducersController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAUwK4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T10:06:29.882Z",
+              "WhenOpened": "2025-02-22T10:06:29.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CinemaManager-zaineb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T10:04:59.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "CinemaManager-zaineb\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:51:41.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\appsettings.Development.json",
+              "RelativeToolTip": "CinemaManager-zaineb\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T22:51:15.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CinemaManager-zaineb\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:04:25.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeToolTip": "CinemaManager-zaineb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ViewState": "AgIAAMADAAAAAAAAAAAuwM0DAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-11T23:11:12.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CinemaManager-zaineb",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
+              "RelativeToolTip": "CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T22:45:34.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CinemaManager-zaineb.csproj",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
+              "RelativeToolTip": "CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T10:22:56.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "CinemaManager-zaineb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAANUAAAAAAAAAAAAmwBABAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-11T23:11:14.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CinemaManager-zaineb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T22:36:23.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\Cinema\\Movie.cs",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Models\\Cinema\\Movie.cs",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\Cinema\\Movie.cs",
+              "RelativeToolTip": "CinemaManager-zaineb\\Models\\Cinema\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:44:02.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "CinemaManager-zaineb\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-11T22:49:28.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CinemaManager-zaineb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-11T22:49:20.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "favicon.ico -  [Fran\u00E7ais (France)] - Icon [16x16, 32\u00A0bits, BMP]",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\wwwroot\\favicon.ico -  [Fran\u00E7ais (France)] - Icon [16x16, 32\u00A0bits, BMP]",
+              "RelativeToolTip": "CinemaManager-zaineb\\wwwroot\\favicon.ico -  [Fran\u00E7ais (France)] - Icon [16x16, 32\u00A0bits, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-03-11T22:48:17.018Z",
+              "EditorCaption": " -  [Fran\u00E7ais (France)] - Icon [16x16, 32\u00A0bits, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CinemaManager-zaineb.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\obj\\Debug\\net8.0\\CinemaManager-zaineb.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\obj\\Debug\\net8.0\\CinemaManager-zaineb.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\obj\\Debug\\net8.0\\CinemaManager-zaineb.GlobalUsings.g.cs",
+              "RelativeToolTip": "CinemaManager-zaineb\\obj\\Debug\\net8.0\\CinemaManager-zaineb.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:41:56.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CinemaManager-zaineb.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.g.props",
+              "RelativeToolTip": "CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.g.props",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-11T20:30:51.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CinemaManager-zaineb.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "CinemaManager-zaineb\\obj\\CinemaManager-zaineb.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T20:29:55.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Views\\Producers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\Index.cshtml",
+              "RelativeToolTip": "CinemaManager-zaineb\\Views\\Producers\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:30:12.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProdsAndTheirMovies.cshtml",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\ProdsAndTheirMovies.cshtml",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Views\\Producers\\ProdsAndTheirMovies.cshtml",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\ProdsAndTheirMovies.cshtml",
+              "RelativeToolTip": "CinemaManager-zaineb\\Views\\Producers\\ProdsAndTheirMovies.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T09:09:53.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MoviesAndTheirProds.cshtml",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Movies\\MoviesAndTheirProds.cshtml",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Views\\Movies\\MoviesAndTheirProds.cshtml",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Movies\\MoviesAndTheirProds.cshtml",
+              "RelativeToolTip": "CinemaManager-zaineb\\Views\\Movies\\MoviesAndTheirProds.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T08:13:19.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CinemaManager-zaineb\\Views\\Home\\Index.cshtml",
@@ -100,20 +419,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "CinemaManager-zaineb\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T08:22:29.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "CinemaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\Cinema\\CinemaDbContext.cs",
               "RelativeDocumentMoniker": "CinemaManager-zaineb\\Models\\Cinema\\CinemaDbContext.cs",
               "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Models\\Cinema\\CinemaDbContext.cs",
               "RelativeToolTip": "CinemaManager-zaineb\\Models\\Cinema\\CinemaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T10:14:07.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-22T10:14:07.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\Create.cshtml",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Views\\Producers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Producers\\Create.cshtml",
+              "RelativeToolTip": "CinemaManager-zaineb\\Views\\Producers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-06T20:18:47.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\appsettings.json",
+              "RelativeDocumentMoniker": "CinemaManager-zaineb\\appsettings.json",
+              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\appsettings.json",
+              "RelativeToolTip": "CinemaManager-zaineb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T07:50:49.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "CinemaManager-zaineb\\Views\\Home\\Privacy.cshtml",
@@ -124,48 +478,12 @@
               "WhenOpened": "2025-02-22T10:37:28.234Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CinemaManager-zaineb.csproj",
-              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
-              "RelativeDocumentMoniker": "CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
-              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
-              "RelativeToolTip": "CinemaManager-zaineb\\CinemaManager-zaineb.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-24T10:22:56.266Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Program.cs",
-              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Program.cs",
-              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Program.cs",
-              "RelativeToolTip": "CinemaManager-zaineb\\Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAIBJwBIAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T10:05:02.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "CinemaManager-zaineb\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\zaine\\source\\repos\\CinemaManager-zaineb\\CinemaManager-zaineb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "CinemaManager-zaineb\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T10:04:59.259Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Bookmark",

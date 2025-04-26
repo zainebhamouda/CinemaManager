@@ -18,6 +18,29 @@ namespace CinemaManager_zaineb.Controllers
             _context = context;
         }
 
+
+
+        /*
+                public IActionResult MoviesAndTheirProds() {
+            var movies = _context.Movies.Select(m => new {
+                m.Title,
+                m.Genre,
+                ProducerName = m.Producer.Name,
+                ProducerNationality = m.Producer.Nationality
+            }).ToList();
+            return View(movies);
+        }
+
+                */
+
+        public async Task<IActionResult> MoviesAndTheirProds()
+        {
+            var movies = await _context.Movies
+      .Include(m => m.Producer) // Inclure les producteurs avec leurs films
+      .ToListAsync();
+
+            return View(movies);
+        }
         // GET: Movies
         public async Task<IActionResult> Index()
         {
@@ -159,5 +182,9 @@ namespace CinemaManager_zaineb.Controllers
         {
             return _context.Movies.Any(e => e.Id == id);
         }
+
+
+
+
     }
 }
